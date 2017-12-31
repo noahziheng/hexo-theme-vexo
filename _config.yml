@@ -1,6 +1,6 @@
-author: yanm1ng # 作者
-description: yanm1ng's blog
-keyword: hexo-theme, vuejs
+author: Noah Gao # 作者
+description: Noah's blog
+keyword: 博客, 前端, Web
 favicon: 
 
 excerpt_link: Read more
@@ -10,6 +10,7 @@ menu:
  Tags: /tags/
  Archives: /archives/
  Projects: /project/
+ Resume: /resume/
  About: /about/
 
 # highlight
@@ -20,10 +21,10 @@ highlight:
 catalog: true
 
 # donate
-donate: true
+donate: false
 
 # qrcode
-qrcode: true
+qrcode: false
 
 # comment
 # you can set gitment or uyan
@@ -31,23 +32,23 @@ qrcode: true
 comment: gitment
 
 # gitment config
-gitment_owner: yanm1ng
-gitment_repo: yanm1ng.github.io
-gitment_oauth_id: 0f87e490e00ee3fd87ef
-gitment_oauth_secret: 4a9d2b148e7971c2201ad12131ce8bf8159ccd2e
+gitment_owner: noahziheng
+gitment_repo: noahziheng.github.io
+gitment_oauth_id: a9a8b8ae317ae422c1eb
+gitment_oauth_secret: 017b8d86dc6ee4c9a95b16d37ac432a141541eec
 
 # uyan
 # if you want to use uyan as your blog comment, plz remove/comment out gitment config
 
-baidu_id: 
+baidu_id: f4eb406be058265cf6064b36b379393d
 
 about: 
-  banner: http://file.muyutech.com/about.jpg
-  avatar: https://avatars3.githubusercontent.com/u/16443628?v=3&s=460
-  description: The end is always near.
+  banner: /images/banner.jpg
+  avatar: https://avatars1.githubusercontent.com/u/2758317?s=460&v=4
+  description: God helps those who help themselves.
   # Links
-  weibo_username: yanm1ng
-  twitter_username: yanm1ng
-  github_username: yanm1ng
-  zhihu_username: yummy1121
-  douban_username: yanm1ng
+  weibo_username: ziheng1719
+  twitter_username: noahziheng
+  github_username: noahziheng
+  zhihu_username: noah-gao
+  douban_username: 
